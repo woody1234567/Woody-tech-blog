@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Woody's tech blog"
-  text: "A place to share my learning notes on the path of mastering web dev."
+  text: "A place to share my learning notes"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
