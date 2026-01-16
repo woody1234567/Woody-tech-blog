@@ -11,6 +11,7 @@ export default defineConfig({
       { text: "AI", link: "/AI" },
       { text: "web dev", link: "/web_dev" },
       { text: "python", link: "/python" },
+      { text: "Nuxt", link: "/Nuxt" },
     ],
 
     sidebar: [
@@ -25,6 +26,10 @@ export default defineConfig({
       {
         text: "python",
         items: [{ text: "memory buffer", link: "/python/memory_buffer" }],
+      },
+      {
+        text: "Nuxt",
+        items: [{ text: "Nuxt Image", link: "/Nuxt/NuxtImage" }],
       },
     ],
 
