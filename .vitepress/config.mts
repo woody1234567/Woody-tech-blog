@@ -37,5 +37,9 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/woody1234567" },
       { icon: "youtube", link: "https://www.youtube.com/@Woodyhsu-vlog" },
     ],
+
+    footer: {
+      copyright: "Copyright © 2026-present StudyWithWoody",
+    },
   },
 });
