@@ -12,6 +12,7 @@ export default defineConfig({
       { text: "web dev", link: "/web_dev" },
       { text: "python", link: "/python" },
       { text: "Nuxt", link: "/Nuxt" },
+      { text: "Database", link: "/Database" },
     ],
 
     sidebar: [
@@ -32,6 +33,10 @@ export default defineConfig({
         items: [{ text: "Nuxt Image", link: "/Nuxt/NuxtImage" },
           { text: "Nuxt Content", link: "/Nuxt/NuxtContent" }
         ],
+      },
+      {
+        text: "Database",
+        items: [{ text: "Neon 分支", link: "/Database/neon" }],
       },
     ],
 
